@@ -4,9 +4,9 @@
 
 # PowerShell Developer Profile Environment
 
-    Supercharge your Windows terminal experience. This project provides an automated setup script that configures your PowerShell $PROFILE with essential shortcuts, functions, and a structured development workflow for Git, Laravel, and React Native developers
+Supercharge your Windows terminal experience. This project provides an automated setup script that configures your PowerShell $PROFILE with essential shortcuts, functions, and a structured development workflow for Git, Laravel, and React Native developers
 
-    Say goodbye to repetitive typing and hello to a faster, more enjoyable command line.
+Say goodbye to repetitive typing and hello to a faster, more enjoyable command line.
 
 ### Features
 
